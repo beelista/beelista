@@ -24,7 +24,7 @@ I'm a passionate developer with experience in [your specialties or interests]. I
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 
 ## GitHub Stats
-![Your GitHub Stats] (https://github-readme-streak-stats.herokuapp.com/?user=beelista&theme=vue-dark&hide_border=true))
+![beelista's Streak](https://github-readme-streak-stats.herokuapp.com/?user=beelista&theme=vue-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beelista&layout=compact&theme=radical&hide_border=true)
 
