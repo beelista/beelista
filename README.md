@@ -26,14 +26,13 @@ I'm a passionate developer with experience in [your specialties or interests]. I
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=beelista&show_icons=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beelista&layout=compact&theme=radical&hide_border=true)
 
 ## Projects
 Here are a few of my notable projects:
 
-- [Project 1](https://github.com/yourusername/project1): A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2): A brief description of what this project does.
-- [Project 3](https://github.com/yourusername/project3): A brief description of what this project does.
+- [Project 1](https://github.com/beelista/maplogger): An interactive game progress tracker (supported for Elden Ring so far).
+- [Project 3](https://github.com/yourusername/project3): A Discord guide bot for Elden Ring.
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yourusername/)
