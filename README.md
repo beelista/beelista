@@ -26,8 +26,7 @@ I'm a passionate developer with experience in [your specialties or interests]. I
 ## GitHub Stats
 ![beelista's Streak](https://github-readme-streak-stats.herokuapp.com/?user=beelista&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beelista&layout=compact&theme=radical&hide_border=true)
-
+![beelista's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beelista&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ## Projects
 Here are a few of my notable projects:
 
