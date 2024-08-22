@@ -34,8 +34,3 @@ Here are a few of my notable projects:
 
 - [MapLogger](https://github.com/beelista/maplogger): An interactive game progress tracker (supported for Elden Ring so far).
 - [Jarhead](https://github.com/beelista/jarhead): A Discord guide bot for Elden Ring.
-
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername/)
-- [Website/Blog](https://yourwebsite.com)
