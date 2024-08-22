@@ -1,7 +1,7 @@
 # Hiya, I'm Abhilash
 
 ## About Me
-I'm a passionate developer with interest Web & Bot Development. I love working on open-source projects, creating useful tools, and contributing to the dev community in my own way.
+I'm a passionate developer with interest in Web & Bot Development. I love working on open-source projects, creating useful tools, and contributing to the dev community in my own way.
 
 - I’m currently working on a dynamic stats tracking page 
 - I’m currently learning Machine Learning, Deep Learning, Natural Language Processing and AI Development.
