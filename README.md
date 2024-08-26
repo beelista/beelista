@@ -1,13 +1,12 @@
-# Hiya, I'm Abhilash
+# Heya, I'm Abhilash
 
 ## About Me
-I'm a passionate developer with interest in Web & Bot Development. I love working on open-source projects, creating useful tools, and contributing to the dev community in my own way.
+I'm a passionate developer with keen interest in Full Stack Development. I love working on open-source projects, creating useful tools, and contributing to the dev community in my own small way.
 
 - I’m currently working on a dynamic stats tracking page 
 - I’m currently learning Machine Learning, Deep Learning, Natural Language Processing and AI Development.
 - I’m looking to collaborate on open source projects.
-- I’m looking for help about Kubernetes (please reach out 😭)
-- Feel free to ask me about the MERN Stack, Discord API, YouTube API, Spotify API and Reddit API
+- Feel free to ask me about the MERN Stack, Discord API, YouTube API, Spotify API, Reddit API and Bot Development
 - I really really really like souls games 
 
 ## My Tech Stack
